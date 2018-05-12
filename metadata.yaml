@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3475
     wikipedia: http://en.wikipedia.org/wiki/William_Stoddard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46233#With-the-Black-Prince
 gutenberg_issued: '2014-07-09'
 gutenberg_type: Text
 identifiers:
