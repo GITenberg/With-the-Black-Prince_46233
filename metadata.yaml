@@ -1,0 +1,41 @@
+_repo: With-the-Black-Prince_46233
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46233-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stoddard, William Osborn
+    aliases:
+    - Stoddard, William O.
+    - Stoddard, W. O.
+    birthdate: 1835
+    deathdate: 1925
+    gutenberg_agent_id: '3475'
+    url: http://www.gutenberg.org/2009/agents/3475
+    wikipedia: http://en.wikipedia.org/wiki/William_Stoddard
+description: ''
+gutenberg_issued: '2014-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46233'
+  lccn: '98000289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Crécy, Battle of, Crécy-en-Ponthieu, France, 1346 -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcsh 'Chivalry -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Archers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+- !lcsh 'Edward, Prince of Wales, 1330-1376 -- Juvenile fiction'
+- !lcsh 'Poachers -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- Edward III, 1327-1377 -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+title: With the Black Prince
+url: http://www.gutenberg.org/ebooks/46233
